@@ -10,14 +10,16 @@ I'm a CSE Undergrad at IIT Bombay. I love to explore different domains of comput
 </p>
 
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=tokyonight)](https://github.com/sudo-boo/github-readme-stats)
 
-<div class="row">
-  <img alt="Sudo-boo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" height="180">
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/sudo-boo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 180px;">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" alt="Sudo-boo's GitHub Stats" style="height: 180px;">
 </div>
 
 
+<!-- 
 [![GitHub sudo-boo](https://img.shields.io/github/followers/sudo-boo?label=follow&style=social)](https://github.com/sudo-boo)
 
 🌱 I’m currently self-learning **Unity** based 2D Game Development and various **Blockchain** related topics.
