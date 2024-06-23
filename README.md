@@ -2,10 +2,24 @@
 
 I'm a CSE Undergrad at IIT Bombay. I love to explore different domains of computer science and its interesting applications.
 
-[![LinkedIn: Omkar Shirpure](https://img.shields.io/badge/OmkarShirpure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-shirpure/)](https://www.linkedin.com/in/omkar-shirpure/)
-[![GitHub sudo-boo](https://img.shields.io/github/followers/sudo-boo?label=follow&style=social)](https://github.com/sudo-boo)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" />
+  <a href="https://www.linkedin.com/in/omkar-shirpure/">
+    <img src="https://img.shields.io/badge/OmkarShirpure-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Omkar Shirpure" style="vertical-align:middle;" />
+  </a>
+</p>
+
 
 <!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=tokyonight)](https://github.com/sudo-boo/github-readme-stats)
+
+<div class="row">
+  <img alt="Sudo-boo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" height="180">
+</div>
+
+
+[![GitHub sudo-boo](https://img.shields.io/github/followers/sudo-boo?label=follow&style=social)](https://github.com/sudo-boo)
+
 🌱 I’m currently self-learning **Unity** based 2D Game Development and various **Blockchain** related topics.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [desai.laxman2001@gmail.com](mailto:desai.laxman2001@gmail.com)
