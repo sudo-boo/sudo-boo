@@ -13,9 +13,12 @@ I'm a CSE Undergrad at IIT Bombay. I love to explore different domains of comput
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/sudo-boo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 180px;">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" alt="Sudo-boo's GitHub Stats" style="height: 180px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="top-langs" />
+</a>
+<a href="https://github.com/sudo-boo/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
+</a>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" alt="Sudo-boo's GitHub Stats" style="height: 180px;"> -->
 </div>
 
 
@@ -48,6 +51,12 @@ I'm a CSE Undergrad at IIT Bombay. I love to explore different domains of comput
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
 ###### (In no perticular ordering)
+
+<!--<div align="center">
+     <a href="https://github.com/sudo-boo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 180px;">
+  </a> -->
+
 
 
 <!--
