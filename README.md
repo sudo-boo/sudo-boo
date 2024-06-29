@@ -30,7 +30,6 @@ I'm a CSE Undergrad at IIT Bombay. I love F1.<img src="https://cultofthepartypar
 - 📫 How to reach me: [desai.laxman2001@gmail.com](mailto:desai.laxman2001@gmail.com)
 - ❤️ Solving Problems & Open Source!
 - ⚡ Fun fact: I learned to code at the start of the pandemic!
--->
 
 ## Languages and Tools
 
