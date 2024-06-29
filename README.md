@@ -1,22 +1,22 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omkar!
 
 I'm a CSE Undergrad at IIT Bombay. I love F1.<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-
+<!--
 <p>
   <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" />
   <a href="https://www.linkedin.com/in/omkar-shirpure/">
     <img src="https://img.shields.io/badge/OmkarShirpure-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Omkar Shirpure" style="vertical-align:middle;" />
   </a>
-</p>
+</p> -->
 
 
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/sudo-boo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="top-langs" />
 </a>
 <a href="https://github.com/sudo-boo/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
 </a>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" alt="Sudo-boo's GitHub Stats" style="height: 180px;"> -->
 </div>
