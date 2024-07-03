@@ -1,14 +1,15 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omkar!
 
-I'm a CSE Undergrad at IIT Bombay. I love F1.<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+I'm a CSE Undergrad at IIT Bombay. I love F1. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
 <!--
 <p>
   <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" />
   <a href="https://www.linkedin.com/in/omkar-shirpure/">
     <img src="https://img.shields.io/badge/OmkarShirpure-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Omkar Shirpure" style="vertical-align:middle;" />
   </a>
-</p> -->
-
+</p> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&random=true&width=435&lines=Ciao%2C+I+am+Omkar%2C+just+another+fellow+%3Cdeveloper+%2F%3E.)](https://sirlisko.com?ref=readme)
+-->
 
 
 <div style="display: flex; align-items: center;">
