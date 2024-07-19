@@ -1,6 +1,8 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omkar!
 
 I'm a CSE Undergrad at IIT Bombay. I love F1. <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32" height="30"/>
+
+Meanwhile, checkout my website <a href = "https://sudo-boo.github.io/" targer="_blank">here</a>
 <!--
 <p>
   <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" />
