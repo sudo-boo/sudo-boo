@@ -5,7 +5,7 @@ I'm a CSE Undergrad at IIT Bombay. I love F1. <img src="https://cultofthepartypa
 Checkout my website <a href = "https://sudo-boo.github.io/" targer="_blank">here</a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" />
+<!--   <img src="https://komarev.com/ghpvc/?username=sudo-boo" alt="wermos" style="vertical-align:middle;" /> -->
 <!--   <a href="https://www.linkedin.com/in/omkar-shirpure/">
     <img src="https://img.shields.io/badge/OmkarShirpure-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Omkar Shirpure" style="vertical-align:middle;" />
   </a> -->
