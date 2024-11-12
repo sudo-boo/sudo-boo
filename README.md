@@ -13,7 +13,9 @@ Checkout my website <a href = "https://sudo-boo.github.io/" targer="_blank">here
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/sudo-boo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800" alt="top-langs" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-boo&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=10" alt="top-langs" /> -->
+
 </a>
 <a href="https://github.com/sudo-boo/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
