@@ -16,9 +16,9 @@ I love sketching. And I love F1. <img src="https://cultofthepartyparrot.com/parr
 
 </a>
 <a href="https://github.com/sudo-boo/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sudo-boo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&cache_seconds=1200" alt="github-streaks"/>
 </a>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=tokyonight" alt="Sudo-boo's GitHub Stats" style="height: 180px;"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sudo-boo&count_private=true&show_icons=true&theme=radical&cache_seconds=1200&hide_border=true" alt="Sudo-boo's GitHub Stats" style="height: 180px;"> -->
 </div>
 
 
